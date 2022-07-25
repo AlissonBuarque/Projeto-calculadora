@@ -21,6 +21,10 @@
 }
 
 .button.triple {
+grid-column: span 3;
+}
+
+.button.operation {
     background-color: #fa8231;
     color: #fff;
 }
